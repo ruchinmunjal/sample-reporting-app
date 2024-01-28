@@ -1,0 +1,14 @@
+{
+  "name": "sample-reporting-app",
+  "version": "1.0.0",
+  "description": "sample app for showing reports",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruchin Munjal",
+  "license": "MIT",
+  "dependencies": {
+    "@material/web": "^1.2.0"
+  }
+}
